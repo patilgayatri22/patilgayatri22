@@ -68,4 +68,4 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 
 ---
 
-### ✨ “Turning complex data into meaningful insights — one pipeline at a time.”
+### ✨ “🤝 Driven and Exploring how data and AI can make everyday systems smarter— open to collaborations in ML, GenAI, and AI-driven innovation!”
