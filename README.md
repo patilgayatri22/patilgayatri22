@@ -49,7 +49,6 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 **DevOps:** Git | Jenkins | Kubernetes | CI/CD pipelines  
 
 
-
 ---
 
 ## 🏆 Highlights  
@@ -59,13 +58,13 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 
 ---
 
-## 🌐 Connect With Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/patilgayatri22/"><img src="https://img.shields.io/badge/LinkedIn-Gayatri%20Patil-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:patilgayatri22@gmail.com"><img src="https://img.shields.io/badge/Email-patilgayatri22%40gmail.com-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/patilgayatri22"><img src="https://img.shields.io/badge/GitHub-patilgayatri22-black?logo=github" /></a>
-</p>
+📬 **Connect with Me**
+
+- **Email:** [patilgayatri2297@gmail.com](mailto:patilgayatri2297@gmail.com)  
+- **LinkedIn:** ([https://www.linkedin.com/in/patilgayatri22/](https://www.linkedin.com/in/gayatri-patil-3490b316a/))  
+- **GitHub:** [github.com/patilgayatri22](https://github.com/patilgayatri22)  
+
 
 ---
 
