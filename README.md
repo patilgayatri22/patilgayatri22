@@ -32,7 +32,7 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 - 💻 **Product Data Science Intern @ Kushmanda Tech LLC (San Diego, CA)**  
   Designed GoLang APIs, integrated Apache Druid for real-time OLAP queries, and improved product analytics scalability by 25%.
 
-- 🧠 **Data Engineer @ Michelin India Pvt Ltd**  
+- 🧠 **Developer Analyst @ Michelin India Pvt Ltd**  
   Built and deployed 20+ ELT pipelines, automated reporting workflows, and reduced SQL execution times by 14s through query optimization.
 
 - 🧩 **Software Engineer @ LTI - L&T Infotech**  
