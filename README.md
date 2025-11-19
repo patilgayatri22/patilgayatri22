@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About Me  
 I'm a **Master’s student in Applied Data Science at San José State University** and a former **Data Engineer at Michelin**.  
-From building scalable **data pipelines** and **cloud analytics systems** to exploring **data-driven product insights**, I love creating solutions that blend **engineering precision** with **product intuition**.
+From building scalable **data pipelines** and **cloud analytics systems** to exploring **data-driven product insights**, I love creating solutions that blend **engineering** with **product intuition**.
 
 
 ---
