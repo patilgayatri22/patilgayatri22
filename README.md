@@ -33,7 +33,6 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 -  **Developer Analyst @ Michelin India Pvt Ltd (Pune, MH, India)**  
 
 -  **Software Engineer @ LTI - L&T Infotech (Pune, MH, India)**  
-  Developed KYC automation software reducing processing time from 7 days to 4 hours, improving backend reliability and accessibility.
 
 ---
 
