@@ -44,12 +44,6 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 **DevOps:** Git | Jenkins | Kubernetes | CI/CD pipelines  
 
 
----
-
-##  Highlights  
--  M.S. Applied Data Science @ **San José State University**  
--  Experienced in end-to-end **data engineering & analytics automation**  
--  Passionate about **data-driven storytelling**, **AI systems**, and **product growth analytics**
 
 ---
 
