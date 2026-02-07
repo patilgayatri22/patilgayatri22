@@ -40,8 +40,9 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 **Languages:** Python | SQL | Java | R  
 **Data Engineering:** Apache Airflow | Spark | dbt | Druid | Hadoop | Kafka | Databricks | Docker  
 **Visualization:** Tableau | Power BI | Looker | Superset  
-**Cloud & Databases:** Snowflake | Azure | AWS | GCP | BigQuery | MySQL | NoSQL | DynamoDB  
-**DevOps:** Git | Jenkins | Kubernetes | CI/CD pipelines  
+**Databases:** Snowflake | Azure | BigQuery | MySQL | NoSQL | DynamoDB  
+**Cloud:** AWS | Google Cloud Platform (GCP) | Workday HCM
+**DevOps:** Git | Jenkins | Maven | Kubernetes | CI/CD pipelines | Agile 
 
 
 
