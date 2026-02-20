@@ -27,7 +27,7 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 
 ## Experience  
 
--  **Product Data Science Intern @ Kushmanda Tech LLC (San Diego, CA)**  
+-  **Product Data Science Intern @ Kushmanda Tech LLC (San Diego, CA, USA)**  
 
 -  **Developer Analyst @ Michelin India Pvt Ltd (Pune, MH, India)**  
 
