@@ -57,4 +57,4 @@ From building scalable **data pipelines** and **cloud analytics systems** to exp
 
 ---
 
-### ✨ “Driven to explore how data and AI can make everyday systems smarter, open to collaborations in ML, GenAI, and AI-driven innovation!”
+### ✨ “Driven to explore how data and AI can make everyday systems smarter, open to collaborations in ML, GenAI, and AI driven innovation!”
