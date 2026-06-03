@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ## About Me  
-From building scalable **data pipelines** and **cloud analytics systems** to exploring **data-driven product insights**, I love creating solutions that blend **engineering** with **product intuition**.
+Focused Software Engineer and AI Practitioner with 4 years delivering enterprise-scale data pipelines, cloud infrastructure, and ML systems across global compliance, and AI startup with hands-on experience in ML Algorithms and multi-agent AI systems. From building scalable **data pipelines** and **cloud analytics systems** to exploring **data-driven product insights**, I love creating solutions that blend **engineering** with **product intuition**.
 
 
 ---
