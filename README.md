@@ -50,8 +50,9 @@ Focused Software Engineer and AI Practitioner with 4 years delivering enterprise
 **Connect with Me**
 
 - **Email:** [patilgayatri2297@gmail.com](mailto:patilgayatri2297@gmail.com)  
-- **LinkedIn:** ([https://www.linkedin.com/in/patilgayatri22/](https://www.linkedin.com/in/gayatri-patil-3490b316a/))  
-- **GitHub:** [github.com/patilgayatri22](https://github.com/patilgayatri22)  
+- **LinkedIn:** ([https://www.linkedin.com/in/patilgayatri22/](https://www.linkedin.com/in/gayatripatil497/))  
+- **GitHub:** [github.com/patilgayatri22](https://github.com/patilgayatri22)
+- **Portfolio:** [gayatripatil.me](https://gayatripatil.me)    
 
 
 ---
