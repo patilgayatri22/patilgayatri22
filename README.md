@@ -42,6 +42,7 @@ Focused Software Engineer and AI Practitioner with 4 years delivering enterprise
 **Visualization:** Tableau | Power BI | Looker | Superset  
 **Databases:** Snowflake | Databricks | Azure | BigQuery | MySQL | NoSQL   
 **Cloud:**  Workday HCM | Microsoft Azure | AWS | Google Cloud Platform (GCP)
+
 **DevOps:** Git | Jenkins | Maven | Kubernetes | CI/CD pipelines | Agile 
 
 
