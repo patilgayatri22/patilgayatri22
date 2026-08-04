@@ -44,6 +44,7 @@ Focused Software Engineer and AI Practitioner with 4 years delivering enterprise
 **Cloud:**  Workday HCM | Microsoft Azure | AWS | Google Cloud Platform (GCP)
 **DevOps:** Git | Jenkins | Maven | Kubernetes | CI/CD pipelines | Agile 
 
+
 ---
 
 
